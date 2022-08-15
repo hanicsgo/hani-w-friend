@@ -1,7 +1,7 @@
 /*
 
 Credits:
-    - Lummit - https://obnoxious.club/ | https://github.com/Lumm1t/ | Discord: Lummit#0201
+    - Lummit - https://github.com/hanicsgo | Discord: hani in love^^#0310
     - expl0it, shellcode.team
     - Steam (emoticon: https://steamcommunity-a.akamaihd.net/economy/emoticon/mgh_17)
     - Trollface image (http://www.rw-designer.com/icon-image/7835-256x256x32.png)
@@ -62,7 +62,7 @@ $(document).ready(() => {
   }
 
   if (mobileAndTabletCheck()) {
-    $('#background').replaceWith('<div id="background" style="background-image: url(assets/images/mobile-background.jpg);"></div>');
+    $('#background').replaceWith('<div id="background" style="background-image: url(assets/others/LISA  MONEY EXCLUSIVE PERFORMANCE VIDEO_360p.mp4);"></div>');
 
     app.shouldIgnoreVideo = true;
   }
