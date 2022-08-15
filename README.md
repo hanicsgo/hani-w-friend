@@ -1,9 +1,5 @@
-# obnoxious.club
+# hani w friends
 🌹Website for my team's portfolio
-
-Preview - https://obnoxious.club/
-
-![Made with love in Poland](https://madewithlove.now.sh/pl?heart=true)
 
 ## Features
 * Title and icon changer (every 2 seconds)
