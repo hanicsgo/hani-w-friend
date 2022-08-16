@@ -9,7 +9,7 @@ class _app {
   musicVolume = 0.12;
   musicFadeIn = 4000;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ['19 years old kids','xane ddosers', 'trashtalkers', 'esoterik fanboys','drop some money'];
+  brandDescription = ['19 years old kids','xane ddosers', 'trashtalkers', 'esoterik fanboys'];
 
   titleChanger = (text, delay) => {
     if (!text) return;
